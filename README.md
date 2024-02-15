@@ -34,9 +34,10 @@ These are links to all the tools mentioned in the workshop. Of course there are 
 - [DeckGL](https://deck.gl/)
 - [D3.js](https://d3js.org/) (primarily a visualization library, but can be used for highly customized maps with [d3-geo](https://d3js.org/d3-geo))
 
-### Helper Tools
+### Other
 
-_Online tools for modifying geographic data._
-
-- [MapShaper](https://mapshaper.org/): browser-based software for editing Shapefile, GeoJSON, TopoJSON, CSV and several other data formats
-- [geojson.io](https://geojson.io/): easily create geojson files by drawing custom shapes
+- Online tools for modifying geographic data
+  - [MapShaper](https://mapshaper.org/): browser-based software for editing Shapefile, GeoJSON, TopoJSON, CSV and several other data formats
+  - [geojson.io](https://geojson.io/): easily create geojson files by drawing custom shapes
+- Tools for specific data types
+  - [The Vistorian](https://vistorian.net/): Interactive network (incl. geographic networks) visualizations
