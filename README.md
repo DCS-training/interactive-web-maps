@@ -4,6 +4,8 @@ Workshop Materials (15 Feb 2024, 10:00 – 12:00)
 
 Created by [Sarah Schöttler](https://github.com/sarah37)
 
+All material collected here is free to use but is covered by a License: [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
+
 ## Workshop Schedule
 
 - **10:00** - Welcome & Introduction
